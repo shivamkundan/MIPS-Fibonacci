@@ -10,8 +10,8 @@ Simulated using MARS MIPS Simulator
 <p align="center">
   <img src="assets/sim.png" 
   alt="registers" 
-  width="60%" 
-  height="60%"/>
+  width="70%" 
+  height="70%"/>
 </p>
 
 ### Data Path Animation
