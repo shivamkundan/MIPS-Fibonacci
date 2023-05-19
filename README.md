@@ -9,15 +9,15 @@ Simulated using MARS MIPS Simulator
 ### Registers
 <p align="center">
   <img src="assets/sim.png" 
-  alt="demo" 
-  width="100%" 
-  height="100%"/>
+  alt="registers" 
+  width="60%" 
+  height="60%"/>
 </p>
 
-### Animation
+### Data Path Animation
 <p align="center">
   <img src="assets/Fib_MIPS_Sim.gif" 
-  alt="demo" 
+  alt="animation" 
   width="100%" 
   height="100%"/>
 </p>
